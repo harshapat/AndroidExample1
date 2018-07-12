@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "853705249034",
+    "firebase_url": "https://mineral-highway-141708.firebaseio.com",
+    "project_id": "mineral-highway-141708",
+    "storage_bucket": "mineral-highway-141708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853705249034:android:022803bf62326809",
+        "android_client_info": {
+          "package_name": "com.example.harsha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853705249034-9llmlocj3m9pku3inmpt8ju5iur9hpjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harsha.myapplication",
+            "certificate_hash": "27f74ce98c777fbf37d14aa2e1b0e0b31f44a344"
+          }
+        },
+        {
+          "client_id": "853705249034-3k4e1ml6u3rdfokvr0r9qj0q4880ps66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05l1ngEfYdyE1Oj54rdFgBnz5KkwCsAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853705249034-3k4e1ml6u3rdfokvr0r9qj0q4880ps66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
